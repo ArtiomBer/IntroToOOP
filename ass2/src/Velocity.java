@@ -1,4 +1,4 @@
-// Artiom Berengard 321114704
+// Artiom Berengard
 /**
  * This class is in charge of specifying the change in position,
  * on the `x` and the `y` axes.
