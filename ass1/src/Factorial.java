@@ -1,4 +1,4 @@
-// 321114704 Artiom Berengard
+// Artiom Berengard
 
 /**
  * The Factorial class provides the factorial of a number - n with two methods.
