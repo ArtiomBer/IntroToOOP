@@ -1,4 +1,4 @@
-// Artiom Berengard 321114704
+// Artiom Berengard
 /**
  * This class is connecting two points into a line. This class is capable
  * of measuring the distance to other given point and compare the two points as well.
