@@ -1,4 +1,4 @@
-// 321114704 Artiom Berengard
+// Artiom Berengard
 
 /**
  * The DescribeNumbers class provides the minimum, maximum and average of an integer list.
