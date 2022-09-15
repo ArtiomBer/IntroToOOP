@@ -1,4 +1,4 @@
-// Artiom Berengard 321114704
+// Artiom Berengard
 
 package Sprites;
 
